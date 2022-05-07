@@ -12,11 +12,18 @@ _Currently I only have two personal domains: `uniQiao.com`, and `qiaohuang.me`._
 
 ### Social networks
 
-- GitHub: <https://github.con/qiaohuang>
+- GitHub: <https://github.com/qiaohuang>
 - Telegram: <https://t.me/qiaohuang>
 - Twitter: <https://twitter.com/qiaohuangme>
 
 ### More direct contacts
 
+
 - Gmail: <qiaohuangme@gmail.com>
-- WeChat: search by username `uniQiao` <details><summary>or scan QR code</summary><img width="128" src="/wechat-qrcode.jpg"></details>
+- ProtonMail: <qhme@pm.me>
+<ul><li>
+  WeChat: search by username <code>uniQiao</code>
+  <details><summary>or scan QR code</summary>
+    <img width="128" src="/wechat-qrcode.jpg">
+  </details>
+</li><ul>
