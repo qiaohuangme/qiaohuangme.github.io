@@ -19,4 +19,4 @@ _Currently I only have two personal domains: `uniQiao.com`, and `qiaohuang.me`._
 ### More direct contacts
 
 - Gmail: <qiaohuangme@gmail.com>
-- WeChat: search by username `uniQiao` <details><summary>or scan <a href="/wechat-qrcode.jpg">QR codd</a></summary><a href="#"><img valign="middle" width="128" src="/wechat-qrcode.jpg"></a></details>
+- WeChat: search by username `uniQiao` <details><summary>or scan QR code</summary><img width="128" src="/wechat-qrcode.jpg"></details>
