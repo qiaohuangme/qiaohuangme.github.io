@@ -4,7 +4,7 @@ Hi there, I'm Qiao Huang.
 
 ## My site
 
-### <https://www.uniQiao.com/>
+### www.uniQiao.com
 
 _Currently I only have two personal domains: `uniQiao.com`, and `qiaohuang.me`._
 
