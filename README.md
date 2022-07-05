@@ -15,6 +15,7 @@ _Currently I only have two personal domains: `uniQiao.com`, and `qiaohuang.me`._
 - **GitHub**: <https://github.com/qiaohuang>
 - **Telegram**: <https://t.me/qiaohuang>
 - **Twitter**: <https://twitter.com/qiaohuangme>
+- **Zhihu** _(Chinese-only)_: <https://www.zhihu.com/people/uniqiao>
 
 ### Contact me
 
